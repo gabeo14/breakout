@@ -23,7 +23,7 @@ const initialBallPosition = {
   velocityY: Phaser.Math.FloatBetween(300, 400)
 }
 
-const paddleVelocity = 1200
+const paddleVelocity = 10000
 
 let cursors
 let paddle
